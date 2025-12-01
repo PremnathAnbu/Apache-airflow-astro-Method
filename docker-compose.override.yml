@@ -1,0 +1,4 @@
+# services:
+#   postgres:
+#     ports:
+#       - "5433:5432"   # Host 5433 → Container 5432
